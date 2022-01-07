@@ -1,0 +1,10 @@
+http://example.com/2021/10/01/10/
+http://example.com/2021/08/14/9/
+http://example.com/2021/08/10/8/
+http://example.com/2021/08/08/7/
+http://example.com/2021/08/08/6/
+http://example.com/2021/08/02/5/
+http://example.com/2021/07/31/4/
+http://example.com/2021/07/30/3/
+http://example.com/2021/07/30/2/
+http://example.com/2021/07/29/1/
